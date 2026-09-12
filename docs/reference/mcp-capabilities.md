@@ -1,10 +1,9 @@
 # MCP Capabilities
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/303"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/303.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/317"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/317.png" alt="Jacko-o-bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Grotto Bobina" width="130" /></a>
 </p>
-
 
 How Bobina exposes her tools to AI clients through the Model Context Protocol.
 
@@ -31,8 +30,11 @@ MCP access is authenticated and tied to your Council ID, so tool calls draw from
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Grotto Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+
