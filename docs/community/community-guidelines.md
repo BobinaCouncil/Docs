@@ -1,5 +1,11 @@
 # Community Guidelines
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/306"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/306.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/312"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/312.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 Do's and don'ts for being a good Bobina Council member.
 
 ### Do ✅
@@ -21,3 +27,11 @@ Do's and don'ts for being a good Bobina Council member.
 - Submit low-effort or duplicate content
 
 **Remember:** The Bobina Council thrives on creativity, respect, and community spirit. By following these guidelines, you help maintain a positive environment for all members. Violations may result in content removal or account restrictions.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
