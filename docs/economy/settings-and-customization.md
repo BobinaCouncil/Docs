@@ -1,5 +1,11 @@
 # Settings & Customization
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/307"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/307.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/144.png" alt="Torturer Bobina" width="130" /></a>
+</p>
+
+
 Personalize your Bobina experience through [Terminal Settings](?terminal=settings).
 
 The Settings page provides a comprehensive set of customization options organized into tabs. Each tab controls a different aspect of your Bobina Council experience.
@@ -43,3 +49,11 @@ Verify ownership of your Ethereum wallet to unlock token-gated features and hold
 - **Holder Benefits:** Verified $BOBINA holders get merch discounts and future token-gated perks
 
 > **Warning:** All settings changes take effect immediately and sync across platforms where Bobina is active. Changes to your companion name, gender, and dynamic are reflected in your next conversation.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/309"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/309.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>

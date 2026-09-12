@@ -1,5 +1,11 @@
 # Login with Bobina.moe
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/304"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/304.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/300"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/300.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 Let your users sign in with their Bobina.moe account and share scoped, verified data with your site.
 
 ## Overview
@@ -68,3 +74,11 @@ For token-partnership auto-verification, request the `wallet` and `holdings` sco
 ## OAuth vs MCP
 
 "Login with Bobina.moe" answers *who a user is* (identity + consented profile/holdings). It does not let an app *do things* as the Companion. Programmatic access to Bobina's tools — chat, market opinions, charts, image generation, and more — is exposed separately through the [Model Context Protocol (MCP)](#mcp), where each tool has a published credit price. Use OAuth to sign users in; use MCP to call capabilities on their behalf.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/119.webp" alt="Pumpkin Bobina" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>

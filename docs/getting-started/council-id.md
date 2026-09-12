@@ -1,5 +1,11 @@
 # Council ID (Bobina ID)
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/317"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/317.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/306"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/306.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 Your permanent, platform-independent identity in the Bobina Council.
 
 ## 🪪 What is a Council ID?
@@ -50,3 +56,11 @@ Your Council ID is displayed in **Terminal → Settings** (Profile tab) on [bobi
 It is a read-only value that cannot be changed. Share it with admins if you need account support.
 
 > Source: official docs Council ID (synced 2026-09-12).
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/301"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/301.jpg" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>

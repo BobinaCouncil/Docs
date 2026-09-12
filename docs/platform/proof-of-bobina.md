@@ -1,5 +1,11 @@
 # Bobina Hashing & Proof of Bobina
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/274.png" alt="Simulation Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+</p>
+
+
 How we create a unique, verifiable fingerprint for every Bobina.
 
 Every Bobina that is successfully added to the gallery is assigned a unique 12-character hash. This hash serves as a "Proof of Bobina," acting as a permanent, verifiable fingerprint that links the Bobina to its creation time and ensures its authenticity within the Council's records.
@@ -15,3 +21,11 @@ Every Bobina that is successfully added to the gallery is assigned a unique 12-c
 This system ensures that every contribution is verifiably unique and its origin timestamp can be cryptographically proven, upholding the integrity of the gallery.
 
 > Source: official docs Proof of Bobina / Bobina Hashing (synced 2026-09-12).
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/306"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/306.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>

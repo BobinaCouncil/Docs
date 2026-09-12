@@ -1,5 +1,11 @@
 # How to Contribute
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/314.png" alt="Honeypot Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/274.png" alt="Simulation Bobina" width="130" /></a>
+</p>
+
+
 Submit your own Bobina art or propose platform changes via the official [Contribute Page](https://bobina.moe/contribute).
 
 The Contribute page allows you to choose between two types of contributions: submitting Bobina art or proposing platform changes through the Council Governance system.
@@ -33,3 +39,11 @@ For inspiration and our official AI prompt tutorial, please visit the [Branding 
 **For Bobina Art:** Your submission will appear on the [Proposals](https://bobina.moe/proposals) page. The community will vote on it, and if it reaches the approval threshold, it will automatically be added to the main gallery! A notification will also be sent to our Telegram channel.
 
 **For Council Proposals:** Your proposal will appear on the [Council Proposals](https://bobina.moe/council-proposals) page for community voting. Approved proposals are archived in the [Council Records](https://bobina.moe/council/records) and reviewed by the development team for implementation.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/312"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/312.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>

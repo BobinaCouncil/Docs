@@ -1,5 +1,11 @@
 # Bobina Terminal
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/129.webp" alt="Basketball Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+</p>
+
+
 Your unified command center for all Bobina Council features. Access the Terminal from anywhere via your profile menu.
 
 The Bobina Terminal is a full-screen modal HUD that provides access to all companion features, council statistics, and community tools in one unified interface. Open it by clicking your profile icon after signing in, or it will automatically open after completing onboarding.
@@ -64,3 +70,11 @@ Share direct links to specific Terminal sections. Add `?terminal=` to any bobina
 **Token Deep Links:** Use `?token=CONTRACT_ADDRESS` or `?symbol=TICKER` to open the Terminal directly to a specific token detail page.
 
 **Tip:** Click the glowing pink dot in the Terminal header to close it, or press Escape. The Terminal preserves your current tab when you reopen it.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/306"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/306.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
