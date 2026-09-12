@@ -27,7 +27,6 @@ We've integrated Coinbase's onramp solution to make purchasing $BOBINA tokens as
 
 > **Info:** 💡 **Pro Tip:** You can also buy $BOBINA on decentralized exchanges like Uniswap if you prefer to use your existing wallet and ETH. Visit the [Buy page](https://bobina.moe/buy) for all purchase options.
 
----
 
 ---
 
