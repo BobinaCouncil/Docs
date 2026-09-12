@@ -17,7 +17,6 @@ For advanced AI artists, we have released our official Bobina LoRA (Low-Rank Ada
 4. In your positive prompt, include the trigger word `Bobina`.
 5. Experiment with different weights (e.g., 0.7 to 1.0) and descriptive tags to create your perfect Bobina!
 
----
 
 ---
 
