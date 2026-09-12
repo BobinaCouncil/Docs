@@ -1,5 +1,11 @@
 # MCP Capabilities
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/303"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/303.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+</p>
+
+
 How Bobina exposes her tools to AI clients through the Model Context Protocol.
 
 ## What is MCP?
@@ -22,3 +28,11 @@ Billable MCP tools spend the same credits as the rest of the platform. Your [cre
 ## Privacy & access
 
 MCP access is authenticated and tied to your Council ID, so tool calls draw from your own credits and respect your relationship and privacy settings. Capability access is granted at the Council's discretion, and the same data-minimization principles as [Login with Bobina.moe](#oauth) apply: tools only ever return what their described purpose requires.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
