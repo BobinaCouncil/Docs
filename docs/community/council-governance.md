@@ -1,10 +1,9 @@
 # Council Governance
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/307"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/307.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas/311"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/311.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/309"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/309.png?v=1786004681480" alt="Cheeky Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/308"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/308.png" alt="Tipping Bobina" width="130" /></a>
 </p>
-
 
 Shape the future of the platform through community-driven governance proposals.
 
@@ -45,8 +44,11 @@ All proposals are rejected when they reach a score of **-10 votes** and are perm
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/308"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/308.png" alt="Tipping Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+
