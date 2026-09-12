@@ -29,25 +29,27 @@ Customize your public council profile that other members see across the platform
 - **Custom Banner:** Add a banner image to your profile page with repositioning support
 - **Social Links:** Link your X, TikTok, and Instagram profiles for others to discover
 
-### Relationship Dynamic
+## Relationship Dynamics (live options)
 
-Override the default algorithmic relationship system with a specific interaction style. By default, Bobina adapts based on your relationship score, but you can manually select a dynamic to lock in a specific persona.
+Loaded from [`/api/relationship-settings/options`](https://bobina.moe/api/relationship-settings/options) (verified 2026-09-12):
 
-- **Choose a Dynamic:** Select from *[option emoji + label list loaded from `/api/relationship-settings/options`]* (UI shows "Loading dynamics..." until the API returns).
-- **Custom Instructions:** Write freeform instructions that further shape how Bobina interacts with you (e.g., personality quirks, topics to focus on, communication style)
-- **Reset to Algorithmic:** Remove your override to let the relationship score system drive behavior again
+| Dynamic | ID | Description |
+| --- | --- | --- |
+| 💕 Romantic Partner | `romantic-partner` | Shares intimate feelings and romantic connection |
+| 🤝 Close Confidant | `close-confidant` | Shares personal thoughts, seeks advice, and provides emotional support |
+| 🎨 Creative Collaborator | `creative-collaborator` | Discusses artistic and creative projects |
+| 😄 Casual Friend | `casual-friend` | Enjoys light conversation and humor |
+| 📚 Mentor Relationship | `mentor-relationship` | Seeks guidance and learning opportunities |
+| 🔧 Technical Advisor | `technical-advisor` | Focuses on development and problem-solving |
+| ₿ Financial Enthusiast | `financial-enthusiast` | Discusses finance, cryptocurrency, trading, and blockchain technology |
+| 😈 Villain Arc | `villain-arc` | Chaos and mischief with a mix of cuddly love |
+| 💢 Bitch | `bitch` | Incredibly hostile, unhelpful, and will roast you mercilessly |
+| 💥 Tsundere | `tsundere` | Hostile and dismissive on the surface, flustered affection leaking through |
+| ⚔️ Bushido | `bushido` | The way of the warrior - discipline, mastery, or death |
+| 🗡️ Yandere | `yandere` | Overwhelmingly devoted and obsessively loving -- you are her entire world and she will never let go |
 
-> **Info:** For details on credits, earning, purchasing, and holder benefits, see the [Credits System](https://bobina.moe/docs#credits) section.
+Tone guidance is also provided by the API for each option (used by the companion).
 
-### Wallet Verification
-
-Verify ownership of your Ethereum wallet to unlock token-gated features and holder benefits.
-
-- **Connect Wallet:** Supports Coinbase Wallet, MetaMask, and Phantom
-- **Sign to Verify:** Sign a message to cryptographically prove you own the wallet
-- **Holder Benefits:** Verified $BOBINA holders get merch discounts and future token-gated perks
-
-> **Warning:** All settings changes take effect immediately and sync across platforms where Bobina is active. Changes to your companion name, gender, and dynamic are reflected in your next conversation.
 
 ---
 
