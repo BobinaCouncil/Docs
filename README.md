@@ -87,9 +87,9 @@ Live site: [bobina.moe](https://bobina.moe) · Official guides: [bobina.moe/docs
 
 ---
 
-## Newest Bobinas
+## Sample Bobinas
 
-Latest from the [gallery](https://bobina.moe/bobinas):
+Sampled from the [gallery](https://bobina.moe/bobinas):
 
 <p align="center">
   <a href="https://bobina.moe/bobinas/319"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/319.png" alt="Chaos Bobina" width="120" /></a>
