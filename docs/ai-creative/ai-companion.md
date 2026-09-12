@@ -1,10 +1,9 @@
 # AI Companion
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/144.png" alt="Torturer Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/319"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/319.png" alt="Chaos Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Black Hole Bobina" width="130" /></a>
 </p>
-
 
 Interact with Bobina across Web, Discord, and Telegram. Your companion account syncs credits, memories, relationship score, and more.
 
@@ -407,8 +406,11 @@ Access the [Bobina Terminal](#terminal) to see all your memories together with B
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/301"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/301.jpg" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Black Hole Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+
