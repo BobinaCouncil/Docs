@@ -1,5 +1,11 @@
 # Council Governance
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/307"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/307.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/311"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/311.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 Shape the future of the platform through community-driven governance proposals.
 
 ### Dual Proposal System
@@ -36,3 +42,11 @@ All proposals (both Bobina and Council) are approved when they reach a score of 
 All proposals are rejected when they reach a score of **-10 votes** and are permanently removed.
 
 > **Info:** For step-by-step submission instructions, see the [How to Contribute](https://bobina.moe/docs#contribute) section.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
