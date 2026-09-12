@@ -1,10 +1,9 @@
 # Token Tracking
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/309"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/309.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/313"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/313.png" alt="Bamboo Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/312"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/312.png" alt="Father’s Day Bobina" width="130" /></a>
 </p>
-
 
 Community-driven token call leaderboards with anti-manipulation safeguards.
 
@@ -90,8 +89,11 @@ Warning severity levels: Critical (immediate danger), High (significant risk), M
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/312"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/312.png" alt="Father’s Day Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+

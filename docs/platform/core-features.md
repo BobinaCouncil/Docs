@@ -1,10 +1,9 @@
 # Core Features
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/302"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/302.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/291"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/291.png" alt="Reindeer Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/290"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/290.png" alt="Soul Reaper Bobina" width="130" /></a>
 </p>
-
 
 The foundational pillars of the Bobina experience.
 
@@ -30,8 +29,11 @@ Sign in with X, Google, TikTok, Discord, Telegram, or wallet to access all featu
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/305"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/305.png" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/290"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/290.png" alt="Soul Reaper Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+

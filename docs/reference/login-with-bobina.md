@@ -1,10 +1,9 @@
 # Login with Bobina.moe
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/304"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/304.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas/300"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/300.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/319"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/319.png" alt="Chaos Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Black Hole Bobina" width="130" /></a>
 </p>
-
 
 Let your users sign in with their Bobina.moe account and share scoped, verified data with your site.
 
@@ -77,8 +76,11 @@ For token-partnership auto-verification, request the `wallet` and `holdings` sco
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/119.webp" alt="Pumpkin Bobina" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Black Hole Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+

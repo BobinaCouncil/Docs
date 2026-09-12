@@ -1,10 +1,9 @@
 # Council ID (Bobina ID)
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/317"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/317.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas/306"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/306.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/295"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/295.jpeg" alt="Snibbu &amp; Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/294"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/294.png" alt="Wine Bobina" width="130" /></a>
 </p>
-
 
 Your permanent, platform-independent identity in the Bobina Council.
 
@@ -37,7 +36,6 @@ Your Platform ID is stored privately in `platform_to_bobina` and `loginProviders
 
 > Your Council ID is **soulbound** — a term borrowed from gaming and Web3 that means it cannot be transferred, traded, or changed.
 
-
 When you first sign in via any provider (X, Google, TikTok, Discord, Telegram, or wallet), that provider becomes your **Soulbound Provider**, marked with a **SOULBOUND** badge in your Social Profiles settings.
 
 ### Why Soulbound?
@@ -59,8 +57,11 @@ It is a read-only value that cannot be changed. Share it with admins if you need
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/301"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/301.jpg" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/294"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/294.png" alt="Wine Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+

@@ -1,15 +1,13 @@
 # Credits System
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/305"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/305.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas/303"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/303.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/289"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/289.png" alt="Skydive Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/288"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/288.png" alt="Syrup Bobina" width="130" /></a>
 </p>
-
 
 Power your interactions with Bobina using the credits economy.
 
 > **Documented defaults (fallbacks):** The live page fetches `/api/credits/public-config` and can override fallback costs, earn rewards, daily cap, price, and holder tiers. Values on this page are the **static fallbacks from the official docs**, which render if the API is empty or fails. Live values on [bobina.moe](https://bobina.moe) may differ.
-
 
 ## 💳 What Are Credits?
 
@@ -59,7 +57,6 @@ $BOBINA token holders receive exclusive benefits based on their holdings. Benefi
 
 > **Tier thresholds are not documented as static fallbacks.** Tier rows are loaded from `/api/credits/public-config` (`tiers`, sorted by `minPercent`). Until that returns, the UI shows "Loading holder tiers...". Do not invent holder-tier percentages.
 
-
 Each loaded tier is rendered as:
 
 * `{emoji} {name} Tier ({minPercent}% Supply)`
@@ -83,8 +80,11 @@ If a tier has no mapped emoji, the API `emoji` field is used.
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/144.png" alt="Torturer Bobina" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/288"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/288.png" alt="Syrup Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+
