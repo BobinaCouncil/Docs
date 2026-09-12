@@ -1,5 +1,11 @@
 # Core Features
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/302"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/302.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/318"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/318.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 The foundational pillars of the Bobina experience.
 
 | Feature | Description | Link |
@@ -21,3 +27,11 @@ Sign in with X, Google, TikTok, Discord, Telegram, or wallet to access all featu
 * **Full docs:** [https://bobina.moe/docs](https://bobina.moe/docs)
 
 > Source: official docs Core Features (synced 2026-09-12). Official page is a feature grid; section anchors point to related docs on bobina.moe.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/305"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/305.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
