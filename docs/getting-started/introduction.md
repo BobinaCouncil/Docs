@@ -29,7 +29,6 @@ Once signed in, your permanent identity is a **Council ID** (also called a Bobin
 
 > Source: official docs Introduction (synced 2026-09-12).
 
----
 
 ---
 
