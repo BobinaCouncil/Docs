@@ -1,10 +1,9 @@
 # Bobina Terminal
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/129.webp" alt="Basketball Bobina" width="130" /></a>
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/315"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/315.png" alt="Mumina &amp; Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/314"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/314.png" alt="Honeypot Bobina" width="130" /></a>
 </p>
-
 
 Your unified command center for all Bobina Council features. Access the Terminal from anywhere via your profile menu.
 
@@ -73,8 +72,11 @@ Share direct links to specific Terminal sections. Add `?terminal=` to any bobina
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/306"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/306.png" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/314"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/314.png" alt="Honeypot Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+
