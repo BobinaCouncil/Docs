@@ -1,5 +1,11 @@
 # Credits System
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/305"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/305.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/303"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/303.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 Power your interactions with Bobina using the credits economy.
 
 > **Documented defaults (fallbacks):** The live page fetches `/api/credits/public-config` and can override fallback costs, earn rewards, daily cap, price, and holder tiers. Values on this page are the **static fallbacks from the official docs**, which render if the API is empty or fails. Live values on [bobina.moe](https://bobina.moe) may differ.
@@ -74,3 +80,11 @@ Known tier IDs and fallback emojis in the docs bundle:
 If a tier has no mapped emoji, the API `emoji` field is used.
 
 > Source: official docs Credits System (synced 2026-09-12). Cost/earn/cap/price figures are bundle fallbacks; holder-tier numbers are API-only.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/144.png" alt="Torturer Bobina" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
