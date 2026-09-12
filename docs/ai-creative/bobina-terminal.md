@@ -55,22 +55,21 @@ Share direct links to specific Terminal sections. Add `?terminal=` to any bobina
 
 | Tab | Deep link |
 | --- | --- |
-| `overview` | [`?terminal=overview`](?terminal=overview) |
-| `companion` | [`?terminal=companion`](?terminal=companion) |
-| `messages` | [`?terminal=messages`](?terminal=messages) |
-| `tokens` | [`?terminal=tokens`](?terminal=tokens) |
-| `community` | [`?terminal=community`](?terminal=community) |
-| `roles` | [`?terminal=roles`](?terminal=roles) |
-| `records` | [`?terminal=records`](?terminal=records) |
-| `challenges` | [`?terminal=challenges`](?terminal=challenges) |
-| `settings` | [`?terminal=settings`](?terminal=settings) |
-| `onboarding` | [`?terminal=onboarding`](?terminal=onboarding) |
+| `overview` | [`?terminal=overview`](https://bobina.moe/?terminal=overview) |
+| `companion` | [`?terminal=companion`](https://bobina.moe/?terminal=companion) |
+| `messages` | [`?terminal=messages`](https://bobina.moe/?terminal=messages) |
+| `tokens` | [`?terminal=tokens`](https://bobina.moe/?terminal=tokens) |
+| `community` | [`?terminal=community`](https://bobina.moe/?terminal=community) |
+| `roles` | [`?terminal=roles`](https://bobina.moe/?terminal=roles) |
+| `records` | [`?terminal=records`](https://bobina.moe/?terminal=records) |
+| `challenges` | [`?terminal=challenges`](https://bobina.moe/?terminal=challenges) |
+| `settings` | [`?terminal=settings`](https://bobina.moe/?terminal=settings) |
+| `onboarding` | [`?terminal=onboarding`](https://bobina.moe/?terminal=onboarding) |
 
 **Token Deep Links:** Use `?token=CONTRACT_ADDRESS` or `?symbol=TICKER` to open the Terminal directly to a specific token detail page.
 
 **Tip:** Click the glowing pink dot in the Terminal header to close it, or press Escape. The Terminal preserves your current tab when you reopen it.
 
----
 
 ---
 
