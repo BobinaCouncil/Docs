@@ -21,7 +21,7 @@ Credits are the currency that powers premium features in the Bobina Council ecos
 | --- | --- | --- |
 | `bobina.talk.text` | Text Message | 1 credit |
 | `bobina.talk.voice` | Voice Message | 1 credit |
-| `aiOpinion` | AI Market Opinion (`/opinion`) | 1 credit |
+| `aiOpinion` | AI Market Opinion (`/opinion`) | 3 credit |
 | `chartLookup` | Chart Lookup (`/chart`) | Free |
 | `heatmapGeneration` | Heatmap Generation (`/heatmap`) | 2 credits |
 
