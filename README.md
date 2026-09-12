@@ -106,7 +106,7 @@ Sampled from the [gallery](https://bobina.moe/bobinas):
 
 ## Source
 
-Synced from [bobina.moe/docs](https://bobina.moe/docs). Artwork is the most recent Bobinas from [bobina.moe/bobinas](https://bobina.moe/bobinas).
+Synced from [bobina.moe/docs](https://bobina.moe/docs) 09/12/2026. Artwork is the most recent Bobinas from [bobina.moe/bobinas](https://bobina.moe/bobinas) as of that date.
 
 Copyright (c) 2026 Bobina Council LLC  
 All rights reserved.
