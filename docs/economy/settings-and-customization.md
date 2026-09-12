@@ -1,10 +1,9 @@
 # Settings & Customization
 
 <p align="center">
-  <a href="https://bobina.moe/bobinas/307"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/307.png" alt="Bobina Council" width="130" /></a>
-  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/144.png" alt="Torturer Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/299"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/299.png" alt="Kitsune Bobina" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/298"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/298.jpg" alt="Sniper Bobina" width="130" /></a>
 </p>
-
 
 Personalize your Bobina experience through [Terminal Settings](?terminal=settings).
 
@@ -52,8 +51,11 @@ Verify ownership of your Ethereum wallet to unlock token-gated features and hold
 
 ---
 
+---
+
 <p align="center">
-  <a href="https://bobina.moe/bobinas/309"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/309.png" alt="Bobina Council" width="100" /></a>
+  <a href="https://bobina.moe/bobinas/298"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/298.jpg" alt="Sniper Bobina" width="100" /></a>
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
+
