@@ -7,78 +7,67 @@
 
 Power your interactions with Bobina using the credits economy.
 
-> **Documented defaults (fallbacks):** The live page fetches `/api/credits/public-config` and can override fallback costs, earn rewards, daily cap, price, and holder tiers. Values on this page are the **static fallbacks from the official docs**, which render if the API is empty or fails. Live values on [bobina.moe](https://bobina.moe) may differ.
+> **Live values** from [`/api/credits/public-config`](https://bobina.moe/api/credits/public-config) (verified 2026-09-12). The docs page on bobina.moe loads this same endpoint.
 
-## 💳 What Are Credits?
+## What Are Credits?
 
-Credits are the currency that powers premium features in the Bobina Council ecosystem. Credits are required for conversations with Bobina and premium features like AI market opinions and heatmap generation.
+Credits are the currency that powers premium features in the Bobina Council ecosystem. Credits are required for conversations with Bobina and premium features like AI market opinions, charts, heatmaps, and Bobina generation.
 
-## 📋 Credit Costs
-
-*Documented defaults — may be overridden live via `public-config`.*
+## Credit Costs
 
 | Action | Label | Cost |
 | --- | --- | --- |
-| `bobina.talk.text` | Text Message | 1 credit |
-| `bobina.talk.voice` | Voice Message | 1 credit |
-| `aiOpinion` | AI Market Opinion (`/opinion`) | 3 credit |
-| `chartLookup` | Chart Lookup (`/chart`) | 1 credit |
-| `heatmapGeneration` | Heatmap Generation (`/heatmap`) | 2 credits |
+| `aiOpinion` | AI Market Opinion (/opinion) | 3 credits |
+| `chartLookup` | Chart Lookup (/chart) | 1 credit |
+| `heatmapGeneration` | Heatmap Generation (/heatmap) | 2 credits |
+| `bobina.talk.text` | Talk to Bobina — Text reply | 1 credit |
+| `bobina.talk.voice` | Talk to Bobina — Voice reply | 3 credits |
+| `bobinaGeneration` | Bobina Generation (Contribute) | 3 credits |
 
 Zero-cost actions display as **Free**.
 
-## 🎁 Earning Credits
+## Earning Credits
 
-Participate in the Bobina Council ecosystem to earn credits through community contributions. Earnings are capped at **10 credits per day** (documented default) to maintain balance.
-
-*Documented default earn rewards — may be overridden live via `public-config`:*
+Participate in the Bobina Council ecosystem to earn credits through community contributions. Earnings are capped at **5 credits per day**.
 
 | Action | Label | Reward |
 | --- | --- | --- |
 | `vote` | Vote (Bobinas, Proposals, Articles) | +1 credit |
-| `feedback` | Give Companion Feedback | +2 credits |
-| `contribution` | Submit a Bobina | +3 credits |
+| `feedback` | Give Companion Feedback | +1 credit |
+| `contribution` | Create a Bobina Proposal | +5 credits |
 | `proposal` | Create a Council Proposal | +5 credits |
 
-## 🛒 Purchasing Credits
+## Purchasing Credits
 
-Buy credits with cryptocurrency to keep chatting with Bobina. Credits are priced at **$0.10 per credit** (documented default) with bulk discounts available.
+Buy credits to keep chatting with Bobina. Credits are priced at **$0.20 per credit**, with bulk presets:
+
+| Package | Bonus |
+| --- | --- |
+| 50 credits | 0% bonus |
+| 150 credits | 10% bonus |
+| 500 credits | 20% bonus |
 
 * Pay with **$BOBINA** tokens or **fiat via Stripe**
 * Instant credit delivery after payment confirmation
 * Credits expire **1 year after purchase**
 * Private purchases (no public notifications)
 
+`dailyFreeLimit` is currently **0**. Bobina generation includes **1** free reroll(s).
+
 Access the Credits panel from **Terminal → Settings** ([bobina.moe/?terminal=settings](https://bobina.moe/?terminal=settings)) or the **Companion** tab ([bobina.moe/?terminal=companion](https://bobina.moe/?terminal=companion)).
 
-## 👑 Holder Benefits
+## Holder Benefits
 
-$BOBINA token holders receive exclusive benefits based on their holdings. Benefits are tiered by percentage of total supply held.
+$BOBINA token holders receive exclusive benefits based on holdings (percentage of total supply / minimum token amount). Live tiers:
 
-> **Tier thresholds are not documented as static fallbacks.** Tier rows are loaded from `/api/credits/public-config` (`tiers`, sorted by `minPercent`). Until that returns, the UI shows "Loading holder tiers...". Do not invent holder-tier percentages.
+| Tier | ID | Requirement | Daily free messages | Credit purchase discount |
+| --- | --- | --- | --- | --- |
+| 💋 Bobinachad | `diamond` | 1% supply (≥ 100,000 $BOBINA) | 40 free messages / day | 20% |
+| 🍯 Honey | `gold` | 0.5% supply (≥ 50,000 $BOBINA) | 30 free messages / day | 12% |
+| 🐻 Bearsexual | `silver` | 0.25% supply (≥ 25,000 $BOBINA) | 20 free messages / day | 7% |
+| 🐝 Busy Bee | `bronze` | 0.1% supply (≥ 10,000 $BOBINA) | 10 free messages / day | 5% |
 
-Each loaded tier is rendered as:
-
-* `{emoji} {name} Tier ({minPercent}% Supply)`
-* If `unlimited`: **Unlimited messages** (no daily limit)
-* Else: `{dailyFreeMessages} free messages per day`
-* If `discountPercent > 0`: `{discountPercent}% discount on credit purchases`
-
-Known tier IDs and fallback emojis in the docs bundle:
-
-| Tier ID | Emoji |
-| --- | --- |
-| `bronze` | 🥉 |
-| `silver` | 🥈 |
-| `gold` | 🥇 |
-| `diamond` | 💎 |
-| `bobinachad` | 👑 |
-
-If a tier has no mapped emoji, the API `emoji` field is used.
-
-> Source: official docs Credits System (synced 2026-09-12). Cost/earn/cap/price figures are bundle fallbacks; holder-tier numbers are API-only.
-
----
+Tiers are evaluated from highest requirement downward. Values above are live API data, not static fallbacks.
 
 ---
 
@@ -87,4 +76,3 @@ If a tier has no mapped emoji, the API `emoji` field is used.
 </p>
 
 <p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
-
