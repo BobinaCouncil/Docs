@@ -1,5 +1,11 @@
 # Introduction
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/317"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/317.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/307"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/307.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 Welcome to the Bobina Council. Here's what you need to know.
 
 This page aligns with the official docs **Introduction** on [bobina.moe/docs](https://bobina.moe/docs). For the live platform, visit [bobina.moe](https://bobina.moe).
@@ -23,3 +29,11 @@ Once signed in, your permanent identity is a **Council ID** (also called a Bobin
 * **This repository:** deeper guides for Council members and contributors
 
 > Source: official docs Introduction (synced 2026-09-12).
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/274.png" alt="Simulation Bobina" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
