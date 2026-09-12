@@ -27,7 +27,6 @@ Sign in with X, Google, TikTok, Discord, Telegram, or wallet to access all featu
 
 > Source: official docs Core Features (synced 2026-09-12). Official page is a feature grid; section anchors point to related docs on bobina.moe.
 
----
 
 ---
 
