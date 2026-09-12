@@ -13,7 +13,6 @@ All Legacy Bobinas are marked with the `#legacy` tag, making them easy to find.
 
 After the presale concludes, no new Legacy Bobinas will ever be created. This status is exclusive to those who participated in our launch. You can check the presale status and end time on the [presale page](https://bobina.moe/presale).
 
----
 
 ---
 
