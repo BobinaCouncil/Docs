@@ -47,7 +47,6 @@ The remaining profits cover operational expenses including hosting, development,
 
 Every purchase supports the Bobina Council ecosystem while you get awesome gear!
 
----
 
 ---
 

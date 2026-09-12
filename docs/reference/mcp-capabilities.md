@@ -28,7 +28,6 @@ Billable MCP tools spend the same credits as the rest of the platform. Your [cre
 
 MCP access is authenticated and tied to your Council ID, so tool calls draw from your own credits and respect your relationship and privacy settings. Capability access is granted at the Council's discretion, and the same data-minimization principles as [Login with Bobina.moe](#oauth) apply: tools only ever return what their described purpose requires.
 
----
 
 ---
 

@@ -42,7 +42,6 @@ All proposals are rejected when they reach a score of **-10 votes** and are perm
 
 > **Info:** For step-by-step submission instructions, see the [How to Contribute](https://bobina.moe/docs#contribute) section.
 
----
 
 ---
 

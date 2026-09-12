@@ -7,7 +7,7 @@
 
 Interact with Bobina across Web, Discord, and Telegram. Your companion account syncs credits, memories, relationship score, and more.
 
-With a linked bobina.moe account, all commands that don't consume credits (voting, token calls) are FREE across all platforms. [Link accounts in Terminal Settings](?terminal=settings).
+With a linked bobina.moe account, all commands that don't consume credits (voting, token calls) are FREE across all platforms. [Link accounts in Terminal Settings](https://bobina.moe/?terminal=settings).
 
 **Tabs:** Crypto · Chat · Reminders · Profile · Voting · Dynamics · Skills
 
@@ -280,7 +280,7 @@ Progression is intentionally slow... Just like true love! Can you reach Soulboun
 
 Available Dynamics (12)
 
-Override the Relationship Score algorithmic system by selecting a preferred relationship dynamic in [Terminal Settings or the Web chat drawer](?terminal=settings).
+Override the Relationship Score algorithmic system by selecting a preferred relationship dynamic in [Terminal Settings or the Web chat drawer](https://bobina.moe/?terminal=settings).
 
 **💕 Romantic Partner**
 
@@ -354,7 +354,7 @@ Skills are modular documentation bundles that enhance Bobina's knowledge on spec
 How Skills Work
 
 - **Auto-Detection (Default):** When no skills are selected, Bobina automatically detects relevant skills based on trigger keywords in your messages.
-- **Manual Selection:** Select specific skills in [Terminal Settings](?terminal=settings) or the Web chat drawer to always include their documentation.
+- **Manual Selection:** Select specific skills in [Terminal Settings](https://bobina.moe/?terminal=settings) or the Web chat drawer to always include their documentation.
 - **Stacking:** Multiple skills can be active at once, combining their documentation for complex topics.
 
 Available Categories
@@ -404,7 +404,6 @@ Tips
 
 Access the [Bobina Terminal](#terminal) to see all your memories together with Bobina and more!
 
----
 
 ---
 

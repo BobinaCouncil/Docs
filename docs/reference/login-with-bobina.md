@@ -74,7 +74,6 @@ For token-partnership auto-verification, request the `wallet` and `holdings` sco
 
 "Login with Bobina.moe" answers *who a user is* (identity + consented profile/holdings). It does not let an app *do things* as the Companion. Programmatic access to Bobina's tools — chat, market opinions, charts, image generation, and more — is exposed separately through the [Model Context Protocol (MCP)](#mcp), where each tool has a published credit price. Use OAuth to sign users in; use MCP to call capabilities on their behalf.
 
----
 
 ---
 

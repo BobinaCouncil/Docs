@@ -5,7 +5,7 @@
   <a href="https://bobina.moe/bobinas/298"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/298.jpg" alt="Sniper Bobina" width="130" /></a>
 </p>
 
-Personalize your Bobina experience through [Terminal Settings](?terminal=settings).
+Personalize your Bobina experience through [Terminal Settings](https://bobina.moe/?terminal=settings).
 
 The Settings page provides a comprehensive set of customization options organized into tabs. Each tab controls a different aspect of your Bobina Council experience.
 
@@ -50,8 +50,6 @@ Loaded from [`/api/relationship-settings/options`](https://bobina.moe/api/relati
 
 Tone guidance is also provided by the API for each option (used by the companion).
 
-
----
 
 ---
 

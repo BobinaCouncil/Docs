@@ -30,11 +30,11 @@ Bobina Council uses OAuth exclusively for authentication. We **never collect, st
 
 ## Deleting Conversational Data
 
-You can delete individual conversations with Bobina from the [Terminal Companion tab](?terminal=companion). Open the menu, go to History, and tap the trash icon on any conversation. Deleted conversations are permanently removed from our companion servers and cannot be recovered. You may delete any or all of your conversational data at any time.
+You can delete individual conversations with Bobina from the [Terminal Companion tab](https://bobina.moe/?terminal=companion). Open the menu, go to History, and tap the trash icon on any conversation. Deleted conversations are permanently removed from our companion servers and cannot be recovered. You may delete any or all of your conversational data at any time.
 
 ## Account Deletion
 
-You can deactivate your account from the [Terminal Settings](?terminal=settings) (Danger tab). Disconnecting removes:
+You can deactivate your account from the [Terminal Settings](https://bobina.moe/?terminal=settings) (Danger tab). Disconnecting removes:
 
 - **Removed:** Your Council Profile and public profile page (your profile slug)
 - **Removed:** Your active session and login state
@@ -53,7 +53,6 @@ If you log in again with the same provider account, your preserved data is autom
 
 We reserve the right to analyze interaction data with Bobina for research and development. This includes behavioral patterns, voting metrics, and communication logs. This data improves Bobina's capabilities and informs new features. Research data may be retained after account disconnection. See our full [Privacy Policy](https://bobina.moe/privacy-policy) for details.
 
----
 
 ---
 

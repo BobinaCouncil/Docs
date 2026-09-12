@@ -87,7 +87,6 @@ Warning severity levels: Critical (immediate danger), High (significant risk), M
 - **Volume 24h:** 24-hour trading volume in USD
 - **Liquidity:** Pool liquidity in USD
 
----
 
 ---
 

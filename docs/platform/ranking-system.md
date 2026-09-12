@@ -22,7 +22,6 @@ Browse ranked Bobinas in the gallery: [https://bobina.moe/bobinas](https://bobin
 
 > Source: official docs Ranking System (synced 2026-09-12).
 
----
 
 ---
 

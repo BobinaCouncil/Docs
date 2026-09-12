@@ -39,7 +39,6 @@ For inspiration and our official AI prompt tutorial, please visit the [Branding 
 
 **For Council Proposals:** Your proposal will appear on the [Council Proposals](https://bobina.moe/council-proposals) page for community voting. Approved proposals are archived in the [Council Records](https://bobina.moe/council/records) and reviewed by the development team for implementation.
 
----
 
 ---
 
