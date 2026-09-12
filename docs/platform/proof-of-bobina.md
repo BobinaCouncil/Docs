@@ -21,7 +21,6 @@ This system ensures that every contribution is verifiably unique and its origin 
 
 > Source: official docs Proof of Bobina / Bobina Hashing (synced 2026-09-12).
 
----
 
 ---
 
