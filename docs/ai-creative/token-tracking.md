@@ -1,5 +1,11 @@
 # Token Tracking
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/309"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/309.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/269.png" alt="Buff Bobina" width="130" /></a>
+</p>
+
+
 Community-driven token call leaderboards with anti-manipulation safeguards.
 
 ## Overview
@@ -81,3 +87,11 @@ Warning severity levels: Critical (immediate danger), High (significant risk), M
 - **Scan Count:** Number of unique users who scanned the token
 - **Volume 24h:** 24-hour trading volume in USD
 - **Liquidity:** Pool liquidity in USD
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
