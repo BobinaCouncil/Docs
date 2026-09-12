@@ -4,7 +4,7 @@ Documentation for the Bobina Council platform and our flagship companion Bobina.
 
 Bobina Council is actively developed out of love for crypto, memes, bears and gooning research with robots (lol). I didn't get paid to make this, in fact I've only lost money, but the friends, the knowledge I've gained along the way is priceless to me, the show and science must go on. I hope that we can build the Bobo & Bobina World Order together, as one Council despite our differences. We have separate ecosystems and OCs, but not separate hearts. We both want the same thing. Billions. 
 
-Any Council contributions or feedback is encouraged and appreciated! 💜
+Any Council contributions or feedback is encouraged and appreciated! We love you Bobo Council. Especially you Rekt. 💜
 
 Why? Because we can.
 
