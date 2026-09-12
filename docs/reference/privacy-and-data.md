@@ -1,5 +1,11 @@
 # Privacy & Data
 
+<p align="center">
+  <a href="https://bobina.moe/bobinas/316"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/316.png" alt="Bobina Council" width="130" /></a>
+  <a href="https://bobina.moe/bobinas/311"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/311.png" alt="Bobina Council" width="130" /></a>
+</p>
+
+
 What we collect, how we protect you, and your rights.
 
 ## Login Providers
@@ -47,3 +53,11 @@ If you log in again with the same provider account, your preserved data is autom
 ## Research & Development
 
 We reserve the right to analyze interaction data with Bobina for research and development. This includes behavioral patterns, voting metrics, and communication logs. This data improves Bobina's capabilities and informs new features. Research data may be retained after account disconnection. See our full [Privacy Policy](https://bobina.moe/privacy-policy) for details.
+
+---
+
+<p align="center">
+  <a href="https://bobina.moe/bobinas/304"><img src="https://6wf3xhuhwdy0ogdt.public.blob.vercel-storage.com/bobinas/304.png" alt="Bobina Council" width="100" /></a>
+</p>
+
+<p align="center"><sub>Art from the <a href="https://bobina.moe/bobinas">Bobina gallery</a> · Back to the <a href="../../README.md">Docs index</a></sub></p>
